@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=random&text=Detection Of Lesions&animation=fadeIn&fontColor=B5B5B6)
+![header](https://capsule-render.vercel.app/api?type=waving&color=random&text=Detection_of_Lesions&animation=fadeIn&fontColor=B5B5B6)
 
 <h5 align='center'> Using Tech </h5>
 
