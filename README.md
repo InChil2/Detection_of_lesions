@@ -11,3 +11,4 @@
 
 
 <h3 align='center'>AI 기반 소장 캡슐내시경 병변 탐지 모델 개발</h3>
+<h4 align='center'> 조원 </h4>
