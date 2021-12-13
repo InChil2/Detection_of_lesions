@@ -13,17 +13,17 @@
 <h3 align='center'>AI 기반 소장 캡슐내시경 병변 탐지 솔루션</h3>
 
 <h5 align='center'> 신인철 </h5>
-<p>https://github.com/InChil2</p>
+<p align='center'>https://github.com/InChil2</p>
 <h5 align='center'> 권준기 </h5>
-<p>https://github.com/InChil2</p>
+<p align='center'>https://github.com/InChil2</p>
 <h5 align='center'> 박시우 </h5>
-<p>https://github.com/InChil2</p>
+<p align='center'>https://github.com/InChil2</p>
 <h5 align='center'> 우동주 </h5>
-<p>https://github.com/InChil2</p>
+<p align='center'>https://github.com/InChil2</p>
 <h5 align='center'> 이민찬 </h5>
-<p>https://github.com/InChil2</p>
+<p align='center'>https://github.com/InChil2</p>
 <h5 align='center'> 최한결 </h5>
-<p>https://github.com/InChil2</p>
+<p align='center'>https://github.com/InChil2</p>
 
 <p> 캡슐 내시경을 활용한 병변 탐지 솔루션</p>
 <p> 데이터 = (형식 / JSON, 학습용 = 62,622, 테스트 = 20,874)</p>
