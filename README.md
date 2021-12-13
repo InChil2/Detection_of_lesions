@@ -8,3 +8,6 @@
   <img src="https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=white"/></a>&nbsp
 </p>
+
+
+<h3>AI 기반 소장 캡슐내시경 병변 탐지 모델 개발</h3>
