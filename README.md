@@ -12,7 +12,7 @@
 
 <h3 align='center'>AI 기반 소장 캡슐내시경 병변 탐지 솔루션</h3>
 
-<h5 align='center'> 신인철 </h5>
+<h5 align='center'> [신인철](https://github.com/InChil2) </h5>
 <p align='center'>https://github.com/InChil2</p>
 <h5 align='center'> 권준기 </h5>
 <p align='center'>https://github.com/pkwon35</p>
