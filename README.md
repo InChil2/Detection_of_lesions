@@ -23,3 +23,4 @@
 <p> 레이블 : 4종류의 바운딩 박스의 좌표 값</p>
 <p> 이미지 사이즈 : (576 x 576), (320 x 320)</p>
 <p> 활용 모델 : yolov5, EfficientDet(b0), Mask-RCNN </p>
+<p> 결과 : Local mAP : 0.966 </
