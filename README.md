@@ -10,4 +10,4 @@
 </p>
 
 
-<h3 allign='center'>AI 기반 소장 캡슐내시경 병변 탐지 모델 개발</h3>
+<h3 align='center'>AI 기반 소장 캡슐내시경 병변 탐지 모델 개발</h3>
